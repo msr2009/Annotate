@@ -85,4 +85,10 @@ terminators, etc…
 
 Annotate was written and tested using Python 2.5-2.7 in a UNIX environment.
 
+==Citing Annotate==
+
+If you use this software in your work, please cite its initial use in:
+
+Pashkova, et al. "The yeast Alix homolog, Bro1, functions as a ubiquitin receptor for protein sorting into multivesicular endosomes." Dev Cell (2013). 
+
 For support, email matt dot rich at utah dot edu.
